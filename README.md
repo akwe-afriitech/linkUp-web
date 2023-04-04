@@ -116,4 +116,4 @@ build/web/
 
 ## Conclusion
 
-I will be happy to answer any questions that you may have on this approach, and if you want to lend a hand with the E life Saver project then please feel free to submit an issue and/or pull request 🙂
+I will be happy to answer any questions that you may have on this approach, and if you want to lend a hand with the LinkUp project then please feel free to submit an issue and/or pull request 🙂
